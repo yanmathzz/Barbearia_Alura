@@ -1,11 +1,13 @@
 
 #banner {
     width: 100%;
+    border-radius: 10px;
 }
 
 .Principal {
     background: #CCCCCC;
     padding: 30px;
+    border-radius: 20px;
 }
 
 .titulo-principal {
@@ -46,5 +48,6 @@ ul {
 
 .imagembeneficios {
     width: 40%;
+    border-radius: 10px;
     
 }
