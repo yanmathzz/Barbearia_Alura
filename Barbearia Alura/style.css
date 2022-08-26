@@ -40,6 +40,7 @@ nav a:hover {
 }
 
 .Principal {
+    margin-top: 30px;
     background: #CCCCCC;
     padding: 30px;
     border-radius: 20px;
@@ -71,7 +72,7 @@ em strong {
 
 .beneficios {
     background: #FFFFFF;
-    padding: 20px;
+    padding: 30px;
 }
 
 .atendimento {
@@ -84,5 +85,15 @@ em strong {
 .imagembeneficios {
     width: 40%;
     border-radius: 10px;
-    
+    margin-left:30%;  
+}
+
+.imagemlogo-branca {
+    width: 12%;
+}
+
+footer {
+    text-align: center;
+    background: url("Pag.Beneficios/bg.jpg");
+    padding: 20px 0px;
 }
