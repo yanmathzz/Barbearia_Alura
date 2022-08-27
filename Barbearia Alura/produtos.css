@@ -54,13 +54,10 @@ nav a:hover {
 
 .Produtos li:hover {
     border-color: #C78C19;
-
-
 }
 
 .Produtos li:active {
     border-color: #088C19;
-
 }
 
 .Produtos li:hover h2 {
@@ -89,7 +86,7 @@ footer {
     padding: 20px 0px;
 }
 
-.copyright{
+.copyright {
     color: white;
     font-size: 13px;
     margin: 20px 0px; 

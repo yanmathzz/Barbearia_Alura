@@ -5,8 +5,12 @@ header {
 
 .caixa {
     position: relative;
-    width: 940px;
+    width: 945px;
     margin: 0 auto;
+}
+
+.imageminicial {
+    width: 15%;
 }
 
 nav {
@@ -75,17 +79,17 @@ em strong {
     padding: 30px;
 }
 
-.atendimento {
+.itens {
     display: inline-block;
-    vertical-align: top;
-    width: 20%;
-    margin-top: 15%;
+    width: 170px;
+    height: 70px;
 }
 
 .imagembeneficios {
     width: 40%;
     border-radius: 10px;
-    margin-left:30%;  
+    margin-left:30%; 
+    margin-top: 30px; 
 }
 
 .imagemlogo-branca {
@@ -93,7 +97,14 @@ em strong {
 }
 
 footer {
+    margin-top: 20px;
     text-align: center;
     background: url("Pag.Beneficios/bg.jpg");
-    padding: 20px 0px;
+    padding: 17px 0px;
+}
+
+.copyright {
+    color: white;
+    font-size: 13px;
+    margin: 13px 0px;
 }
