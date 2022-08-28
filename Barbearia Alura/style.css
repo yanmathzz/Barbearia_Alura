@@ -91,3 +91,23 @@ footer {
     font-size: 13px;
     margin: 20px 0px; 
 }
+
+main {
+    width: 950px;
+    margin: 0 auto;
+}
+
+form {
+    margin: 40px 0; 
+}
+
+form label {
+    display:block;
+    font-size: 20px;
+    margin: 0 0 15px;
+}
+
+form input{
+    display:block;
+    margin: 0 0 25px;
+}
