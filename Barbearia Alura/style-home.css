@@ -5,12 +5,8 @@ header {
 
 .caixa {
     position: relative;
-    width: 945px;
+    width: 940px;
     margin: 0 auto;
-}
-
-.imageminicial {
-    width: 15%;
 }
 
 nav {
