@@ -154,5 +154,29 @@ td, th {
 /* css da página inicial */
 
 .banner {
+    margin-top: 25px;
+    border-radius: 10px;
     width: 100%;
+}
+
+.titulo-principal {
+    text-align: center;
+    font-size: 2em;
+    margin: 0 0 1em;
+}
+
+.principal P {
+    margin: 0 0 1em;
+}
+
+.principal strong {
+    font-weight: bold;
+}
+
+.principal em {
+    font-style: italic;
+}
+
+.imagembeneficios {
+    width: 50%;
 }
