@@ -192,11 +192,11 @@ td, th {
     width: 50%;
 }
 
-.Mapa {
-    padding: 3em 0;
+.mapa {
+    padding: 3 0;    
 }
 
-.Mapa p {
-    margin: 0 0 2em;
+.mapa p {
+    margin: 0 0 2;
     text-align: center;
 }
