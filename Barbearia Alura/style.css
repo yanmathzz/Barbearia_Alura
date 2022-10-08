@@ -195,6 +195,7 @@ td, th {
 
 .lista-beneficios {
     width: 40%;
+    display: inline-block;
 }
 
 .imagem-beneficios {
