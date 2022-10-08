@@ -166,9 +166,13 @@ td, th {
     clear: left;
 }
 
+.titulo-principal:first-letter {
+    font-weight: bold;
+}
+
 .principal {
     padding: 3em 0;
-    background: #FEFEFE;
+
     width: 950px;
     margin: 0 auto;
 }
@@ -207,7 +211,6 @@ td, th {
 
 .beneficios {
     padding: 3em 0;
-    background: #888888;
 }
 
 .conteudo-beneficios {
@@ -223,6 +226,7 @@ td, th {
 
 .itens {
     line-height: 1.5;
+    font-style: italic;
 }
 
 .itens:first-child {
