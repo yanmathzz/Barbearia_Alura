@@ -212,6 +212,10 @@ td, th {
     vertical-align: top;
 }
 
+.itens {
+    line-height: 1.5;
+}
+
 .imagem-beneficios {
     width: 50%;
 }
