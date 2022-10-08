@@ -229,8 +229,12 @@ td, th {
     font-style: italic;
 }
 
-.itens:first-child {
+.itens:nth-child(2n) {
     font-weight: bold;   
+}
+
+.itens:before {
+    content: "✦ ";
 }
 
 .imagem-beneficios {
