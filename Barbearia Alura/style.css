@@ -97,8 +97,7 @@ footer {
 }
 
 main {
-    width: 950px;
-    margin: 0 auto;
+
 }
 
 form {
@@ -170,6 +169,13 @@ td, th {
     clear: left;
 }
 
+.principal {
+    padding: 3em 0;
+    background: #FEFEFE;
+    width: 950px;
+    margin: 0 auto;
+}
+
 .principal P {
     margin: 0 0 1em;
 }
@@ -189,7 +195,9 @@ td, th {
 }
 
 .mapa {
-    padding: 3em 0;    
+    padding: 3em 0;
+    width: 950px;
+    margin: 0 auto;    
 }
 
 .mapa p {
@@ -199,6 +207,9 @@ td, th {
 
 .beneficios {
     padding: 3em 0;
+    background: #888888;
+    width: 950px;
+    margin: 0 auto;
 }
 
 .conteudo-beneficios {
