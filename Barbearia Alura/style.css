@@ -96,11 +96,6 @@ footer {
     margin: 20px 0px; 
 }
 
-main {
-
-}
-
-
 form {
     margin: 40px 0; 
 }
@@ -197,7 +192,7 @@ td, th {
 
 .mapa {
     padding: 3em 0;
-    background: linear-gradient(orange, blue);  
+    background: linear-gradient(orange, blue);
 }
 
 .mapa-conteudo {
