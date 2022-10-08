@@ -1,5 +1,6 @@
 body {
     font-family: 'Montserrat', sans-serif;
+    background: linear-gradient(white, #FCFCFC, grey, black);
 }
 
 header {
@@ -192,7 +193,6 @@ td, th {
 
 .mapa {
     padding: 3em 0;
-    background: linear-gradient(orange, blue);
 }
 
 .mapa-conteudo {
