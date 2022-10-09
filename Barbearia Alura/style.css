@@ -141,14 +141,17 @@ table {
 }
 
 thead {
-    background: #555555;
-    color: white;
+    background: rgb(199, 199, 199);
+    color: rgb(44, 44, 44);
     font-weight: bold;
+    font-style: italic;
 }
 
 td, th {
     border: 1px solid black;
     padding:  8px 15px;
+    font-style: italic;
+    
 } 
 
 /* css da página inicial */
@@ -249,3 +252,5 @@ td, th {
     width: 560px;
     margin: 2em auto;
 }
+
+@media screen 
