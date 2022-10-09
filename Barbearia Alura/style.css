@@ -166,10 +166,6 @@ td, th {
     clear: left;
 }
 
-.titulo-principal:first-letter {
-    font-weight: bold;
-}
-
 .principal {
     padding: 3em 0;
 
