@@ -234,7 +234,13 @@ td, th {
 }
 
 .imagem-beneficios {
-    width: 50%;
+    width: 60%;
+    opacity: 0.8;
+    transition: 400ms;
+}
+
+.imagem-beneficios:hover {
+    opacity: 0.3;
 }
 
 .video {
